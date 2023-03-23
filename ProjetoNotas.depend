@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1679550212 source:d:\x\projeto_c\projetonotas\views.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<locale.h>
+	"model.h"
+	"database.h"
+
+1679546887 source:d:\x\projeto_c\projetonotas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"views.h"
+
+1679546628 d:\x\projeto_c\projetonotas\views.h
+
+1679549652 source:d:\x\projeto_c\projetonotas\database.c
+	<stdio.h>
+	"model.h"
+	"views.h"
+
+1679540619 d:\x\projeto_c\projetonotas\model.h
+
+1679540087 d:\x\projeto_c\projetonotas\database.h
+
